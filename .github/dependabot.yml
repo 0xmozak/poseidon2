@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "rust" # See documentation for possible values
-    directory: "plain_implementations" # Location of package manifests
+  - package-ecosystem: "cargo"
+    directory: "plain_implementations"
     schedule:
       interval: "weekly"
