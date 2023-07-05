@@ -25,7 +25,7 @@ random = {package = "rand", version = "0.8"}
 group_ped = { package = "group", version = "0.12.1", features = ["wnaf-memuse"] }
 bitvec = "1.0"
 byteorder = "1.4"
-jubjub = "0.9"
+jubjub = "0.10"
 bls12_381 = "0.7"
 
 [dev-dependencies]
